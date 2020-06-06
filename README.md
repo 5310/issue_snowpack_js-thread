@@ -1,6 +1,8 @@
 > This is a bug reproduction repository.
 > 
-> See https://www.pika.dev/npm/snowpack/discuss/275
+> See 
+> - https://www.pika.dev/npm/snowpack/discuss/275
+> - https://github.com/5310/issue_rollup_plugins_node-resolve-w-browser
 
 `$ npm run snowpack` with `rollup-plugin-node-polyfills` added as advised by Snowpack itself fails to build anything in this project (with or without the polyfills):
 
